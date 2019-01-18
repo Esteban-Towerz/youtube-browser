@@ -6,7 +6,7 @@ we're going to make a request over the youtube public free API for a list of vid
 
 1. Take this Mockup and break it down into a couple of separate components.
 
-![mockup](https://user-images.githubusercontent.com/25851867/51396674-887e1580-1b0d-11e9-8098-fa39a505b54e.png)
+![mockup](https://user-images.githubusercontent.com/25851867/51396851-f0346080-1b0d-11e9-9c50-7f846161d9c4.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
