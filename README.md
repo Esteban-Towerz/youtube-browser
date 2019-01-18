@@ -1,7 +1,8 @@
-### Youtube browser
+### Youtube Browser React App
 
-![youtube](https://user-images.githubusercontent.com/25851867/51360491-e5d87f00-1a99-11e9-98ac-e3e638c68739.gif)
+![youtube-browser](https://user-images.githubusercontent.com/25851867/51395423-d5acb800-1b0a-11e9-9a4a-74f8ea67d54e.gif)
 
+we're going to make a request over the youtube public free API for a list of videos matching this search term right here, like embed it inside of our app.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
